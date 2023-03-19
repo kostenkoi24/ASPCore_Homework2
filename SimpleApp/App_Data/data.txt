@@ -1,0 +1,6 @@
+﻿1, Mobile Phone, 600, Asus Rog Phone 5, 10, Smartphones
+2, Laptop, 3200, Lenonvo, 4, Notebooks
+3, Keyboard, 35, Logitech, 99, Keyboard&Mouse
+4, Mouse, 10, Logitech, 0, Keyboard&Mouse
+5, Pen, 1, Buromax, 789, Other
+6, Notebook, 1, MacBook, 2, Notebooks
